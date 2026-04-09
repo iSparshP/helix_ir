@@ -7,7 +7,8 @@ name = "helix-ir"
 version = "0.1.0"
 description = "Comprehensive open-source Python library for schema inference, normalization, transformation, and DDL generation"
 readme = "README.md"
-license = { text = "Apache-2.0" }
+license = "Apache-2.0"
+license-files = ["LICENSE"]
 requires-python = ">=3.11"
 authors = [
     { name = "Sparsh Prakash", email = "sparsh.prakash03@gmail.com" }
@@ -16,7 +17,6 @@ keywords = ["schema", "inference", "normalization", "ddl", "data"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: Apache Software License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
@@ -44,9 +44,6 @@ dev = [
 
 [project.scripts]
 helix-ir = "helix_ir.cli:app"
-
-[tool.hatch.metadata]
-license-files = []
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/helix_ir"]
