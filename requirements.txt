@@ -1,0 +1,21 @@
+# Core dependencies
+pyarrow>=14.0
+duckdb>=0.10
+typer>=0.9
+rich>=13.0
+
+# Optional: MongoDB source
+# pymongo>=4.0
+
+# Optional: PostgreSQL source
+# psycopg[binary]>=3.0
+
+# Optional: Kafka source
+# confluent-kafka>=2.0
+
+# Dev / test
+pytest>=7.0
+pytest-cov>=4.0
+hypothesis>=6.0
+mypy>=1.0
+ruff>=0.1
