@@ -7,7 +7,7 @@ name = "helix-ir"
 version = "0.1.0"
 description = "Comprehensive open-source Python library for schema inference, normalization, transformation, and DDL generation"
 readme = "README.md"
-license = { file = "LICENSE" }
+license = { text = "Apache-2.0" }
 requires-python = ">=3.11"
 authors = [
     { name = "Sparsh Prakash", email = "sparsh.prakash03@gmail.com" }
