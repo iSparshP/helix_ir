@@ -45,6 +45,9 @@ dev = [
 [project.scripts]
 helix-ir = "helix_ir.cli:app"
 
+[tool.hatch.metadata]
+license-files = []
+
 [tool.hatch.build.targets.wheel]
 packages = ["src/helix_ir"]
 
