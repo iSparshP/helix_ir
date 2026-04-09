@@ -10,7 +10,7 @@ readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.11"
 authors = [
-    { name = "Sparsh Jain", email = "sparsh@example.com" }
+    { name = "Sparsh Prakash", email = "sparsh.prakash03@gmail.com" }
 ]
 keywords = ["schema", "inference", "normalization", "ddl", "data"]
 classifiers = [
