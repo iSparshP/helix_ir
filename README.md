@@ -170,8 +170,8 @@ helix-ir lineage schema.json --format dot
 
 ## Documentation
 
-Full documentation: https://helix-ir.readthedocs.io/
+Full documentation: https://helix-ir.readthedocs.io/en/latest/
 
 ## License
 
-Apache 2.0 — Copyright 2024 Sparsh Prakash
+Apache 2.0 — Copyright 2026 Sparsh Prakash
