@@ -174,4 +174,4 @@ Full documentation: https://helix-ir.readthedocs.io/en/latest/
 
 ## License
 
-Apache 2.0 — Copyright 2026 Sparsh Prakash
+Apache 2.0 — Copyright 2026 [Sparsh Prakash](https://sparsh.build)
