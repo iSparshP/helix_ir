@@ -30,6 +30,13 @@ dependencies = [
     "rich>=13.0",
 ]
 
+[project.urls]
+Homepage = "https://github.com/iSparshP/helix_ir"
+Documentation = "https://helix-ir.readthedocs.io/en/latest/"
+Repository = "https://github.com/iSparshP/helix_ir"
+Issues = "https://github.com/iSparshP/helix_ir/issues"
+Author = "https://sparsh.build"
+
 [project.optional-dependencies]
 mongo = ["pymongo>=4.0"]
 postgres = ["psycopg[binary]>=3.0"]
